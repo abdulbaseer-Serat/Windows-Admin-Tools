@@ -94,6 +94,8 @@ If you like this project:
 - Star the repository ⭐
 - Share it with others
 - Contribute improvements
+## Screenshots
+<img width="1710" height="992" alt="image" src="https://github.com/user-attachments/assets/8c8bba0b-a9f5-4fa8-9aa3-b2bc36d42e91" />
 
 ---
 ## 🧑‍💻 Developer
