@@ -96,6 +96,8 @@ If you like this project:
 - Contribute improvements
 ## Screenshots
 <img width="1710" height="992" alt="image" src="https://github.com/user-attachments/assets/8c8bba0b-a9f5-4fa8-9aa3-b2bc36d42e91" />
+<img width="1740" height="962" alt="image" src="https://github.com/user-attachments/assets/91b13acc-194b-4b82-9424-98e4a08b12d5" />
+<img width="1761" height="971" alt="image" src="https://github.com/user-attachments/assets/6c6f2122-f7c3-44fd-9ff2-f09ffd33e253" />
 
 ---
 ## 🧑‍💻 Developer
