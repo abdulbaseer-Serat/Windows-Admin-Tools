@@ -47,8 +47,7 @@ This tool provides quick access to essential Windows utilities, diagnostics, net
 python Windows_Tools.py
 ```
 4. Convert to EXE
-   - Install PyInstaller
-   - Open Command Prompt (CMD) and run:
+   - To Convert .py file into .EXE firts Install PyInstaller and to install *PyInstaller** Open Command Prompt (CMD) and run:
     ```python
      pip install pyinstaller
     ```
