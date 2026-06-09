@@ -47,16 +47,18 @@ This tool provides quick access to essential Windows utilities, diagnostics, net
 python Windows_Tools.py
 ```
 4. Convert to EXE
-   - To Convert .py file into .EXE firts Install PyInstaller and to install *PyInstaller** Open Command Prompt (CMD) and run:
+   - To convert a .py file into an .exe file, you first need to install PyInstaller. To install it, open the Command Prompt (CMD) and run the following command:
+    
     ```python
      pip install pyinstaller
     ```
-    - Navigate to your file location: Go to the folder where your script is saved:
+    - Navigate to your file location by opening the folder where your script is saved.
+      
     ```bash
    cd path\to\your\file
    for Example C:\Users\Serat\Desktop\AutoRun Commands\Windows_Tools>
     ```
-   - Create the EXE file: Run this command:
+   - Create the '.exe' file by running the following command:
     ```python
      pyinstaller --onefile --console Windows_Tools.py
       ```
