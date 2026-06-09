@@ -66,4 +66,30 @@ python Windows_Tools.py
       --onefile → makes a single `.exe` file  --console → keeps your menu visible (important for your script)
 
    - Find EXE in:
+     ```bash
      dist/Windows_Tools.exe
+      ```
+## ⚠️ Important Notes
+
+Some features require Administrator privileges
+Always run the EXE as:
+```bash
+Right-click → Run as Administrator
+```
+## 📦 Project Structure
+Windows-Admin-Tool/
+│
+├── Windows_Tools.py
+├── README.md
+└── dist/
+    └── Windows_Tools.exe
+
+## 📜 License
+This project is open-source and free to use.
+
+## ⭐ Support
+If you like this project:
+
+- Star the repository ⭐
+- Share it with others
+- Contribute improvements
