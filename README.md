@@ -5,11 +5,6 @@ This tool provides quick access to essential Windows utilities, diagnostics, net
 
 ---
 
-## 👨‍💻 Author
-**Abdul Baseer SERAT**  
-Senior ICT Officer  
-
----
 
 ## 🚀 Features
 
@@ -50,3 +45,15 @@ Senior ICT Officer
 
 ```bash
 python Windows_Tools.py
+```
+4. Convert to EXE
+   - Install PyInstaller:
+    ```python
+     pip install pyinstaller
+    ```
+    - Convert script to EXE:
+   ```python
+     pyinstaller --onefile --console Windows_Tools.py
+      ```
+   - Find EXE in:
+     dist/Windows_Tools.exe
