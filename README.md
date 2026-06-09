@@ -47,13 +47,23 @@ This tool provides quick access to essential Windows utilities, diagnostics, net
 python Windows_Tools.py
 ```
 4. Convert to EXE
-   - Install PyInstaller:
+   - Install PyInstaller
+   - Open Command Prompt (CMD) and run:
     ```python
      pip install pyinstaller
     ```
-    - Convert script to EXE:
-   ```python
+    - Navigate to your file location: Go to the folder where your script is saved:
+    ```bash
+   cd path\to\your\file
+   for Example C:\Users\Serat\Desktop\AutoRun Commands\Windows_Tools>
+    ```
+   - Create the EXE file: Run this command:
+    ```python
      pyinstaller --onefile --console Windows_Tools.py
       ```
+    Explanation:
+
+--onefile → makes a single .exe file
+--console → keeps your menu visible (important for your script)
    - Find EXE in:
      dist/Windows_Tools.exe
