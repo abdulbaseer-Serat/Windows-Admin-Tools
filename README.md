@@ -40,14 +40,14 @@ This tool provides quick access to essential Windows utilities, diagnostics, net
 🔹 Step-by-step:
 
 1. Install Python
-2. Write your .py script - **The Script already uploaded**
-3. Test it (python file.py)
+2. Write your `.py` script - **The Script already uploaded**
+3. Test it (python file`.py`)
 
 ```bash
 python Windows_Tools.py
 ```
 4. Convert to EXE
-   - To convert a .py file into an .exe file, you first need to install PyInstaller. To install it, open the Command Prompt (CMD) and run the following command:
+   - To convert a `.py` file into an `.exe` file, you first need to install PyInstaller. To install it, open the `Command Prompt (CMD)` and run the following command:
     
     ```python
      pip install pyinstaller
