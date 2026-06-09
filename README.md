@@ -1,4 +1,4 @@
-# 🧰 Menu-based Windows admin tool
+ 🧰 Menu-based Windows admin tool
 
 A powerful Python-based Windows administration toolkit with a user-friendly console menu.  
 This tool provides quick access to essential Windows utilities, diagnostics, networking, and security tools.
@@ -94,3 +94,10 @@ If you like this project:
 - Star the repository ⭐
 - Share it with others
 - Contribute improvements
+
+---
+## 🧑‍💻 Developer
+
+Abdulbaseer Serat - MS in Computer Sciences · Abasyn University  [GitHub](https://github.com/abdulbaseer-Serat) · [LinkedIn](https://linkedin.com/in/abdul-basir-serat-65b8201ab) · info.abdulbasir@gmail.com
+
+---
