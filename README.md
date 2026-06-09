@@ -41,7 +41,12 @@ Senior ICT Officer
 
 ---
 
-## ▶️ Run from Python
+## ✅ Workflow
+🔹 Step-by-step:
+
+1. Install Python
+2. Write your .py script - **The Script already uploaded**
+3. Test it (python file.py)
 
 ```bash
 python Windows_Tools.py
