@@ -58,7 +58,7 @@ python Windows_Tools.py
    cd path\to\your\file
    for Example C:\Users\Serat\Desktop\AutoRun Commands\Windows_Tools>
     ```
-   - Create the '.exe' file by running the following command:
+   - Create the `.exe` file by running the following command:
     ```python
      pyinstaller --onefile --console Windows_Tools.py
       ```
