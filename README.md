@@ -63,8 +63,7 @@ python Windows_Tools.py
      pyinstaller --onefile --console Windows_Tools.py
       ```
     Explanation:
+      --onefile → makes a single `.exe` file  --console → keeps your menu visible (important for your script)
 
---onefile → makes a single .exe file
---console → keeps your menu visible (important for your script)
    - Find EXE in:
      dist/Windows_Tools.exe
