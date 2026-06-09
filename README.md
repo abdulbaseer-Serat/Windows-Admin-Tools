@@ -71,18 +71,19 @@ python Windows_Tools.py
       ```
 ## ⚠️ Important Notes
 
-Some features require Administrator privileges
-Always run the EXE as:
+Some features require administrative privileges. Always run the `.exe` file as an administrator.
 ```bash
 Right-click → Run as Administrator
 ```
 ## 📦 Project Structure
+```bash
 Windows-Admin-Tool/
 │
 ├── Windows_Tools.py
 ├── README.md
 └── dist/
     └── Windows_Tools.exe
+```
 
 ## 📜 License
 This project is open-source and free to use.
